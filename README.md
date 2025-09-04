@@ -23,5 +23,3 @@ It allows users to quickly search, filter, and view products based on different 
 2. Open `index.html` in your browser.  
 3. Use the search bar or filter buttons to explore products.  
 
-## 📸 Demo (optional)
-_Add a screenshot or GIF of your app here._  
